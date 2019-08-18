@@ -1,5 +1,6 @@
 # Correlation Stock
-Make correlations between stocks in a portfolio.
+
+Make correlations between stocks in a portfolio and plot it.
 
 Get Stocks and Stock Indexes Tickers on [Yahoo Finance](https://finance.yahoo.com/)
 
